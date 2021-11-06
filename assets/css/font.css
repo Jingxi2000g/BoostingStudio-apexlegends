@@ -1,0 +1,24 @@
+/* 字體基礎設定 */
+h1,h2,h3,h4,h5,h6{
+    font-family: Noto Sans TC, sans-serif;
+}
+
+p,a,input,label,textarea,span,ul,li{
+    font-family: "Helvetica", "Arial","LiHei Pro","黑體-繁","微軟正黑體", sans-serif;
+ }
+
+.white-font-title {
+    color: #ffffff;
+    font-size: 74px;
+}
+
+.white-font-description {
+    color: #ffffff;
+    font-size: 70px;
+    font-family: Noto Sans TC, sans-serif;
+}
+
+.lead{
+    font-size: 30px;
+}
+  
